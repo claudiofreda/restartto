@@ -1,5 +1,7 @@
 # Restart To
 
+Originally created and maintained by @tiagoporsch at https://github.com/tiagoporsch/restartto. I've picked up maintaing it since Tiago expressed the desire not to continue.
+
 ![screenshot](https://github.com/user-attachments/assets/38df95e1-cd27-48f4-b103-826d4e089cda)
 
 ## Dependencies
